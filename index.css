@@ -17,7 +17,7 @@
 }
 html{
     font-size: 62.5%;
-    overflow-x: auto;
+    overflow-x: auto ;
     scroll-padding-top: 5.5rem; 
     scroll-behavior: smooth;
 }
@@ -32,7 +32,7 @@ section:nth-child(even){
 }
 .sub-heading{
     text-align: center;
-    color: #a3ce90;
+    color: #a3ce904b;
     font-size: 2rem;
     padding-top: 1rem;
 }

@@ -77,5 +77,5 @@ function loader() {
     document.querySelector('.loader-container').classList.add('fade-out');
 }
 
-setTimeout(loader, 3000); // Add the 'fade-out' class after a delay of 3 seconds
+setTimeout(loader, 1000); // Add the 'fade-out' class after a delay of 3 seconds
 
